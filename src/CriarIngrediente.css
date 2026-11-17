@@ -1,0 +1,19 @@
+form {
+    width: 500px;
+    border: 12px;
+    padding: 8px;
+    border: 1px solid;
+    border-radius: 8px;
+    text-align: center;
+}
+
+form div {
+    margin-top: 6px;
+}
+
+form label {
+    display: inline-block;
+    text-align: right;
+    margin-right: 6px;
+    vertical-align: top;
+}
